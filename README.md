@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
