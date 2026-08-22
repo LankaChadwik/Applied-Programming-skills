@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0946-validate-stack-sequences) |
+| [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
 ## Bucket Sort
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
