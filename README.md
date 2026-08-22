@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0735-asteroid-collision) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -124,4 +126,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
