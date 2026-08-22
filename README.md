@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
