@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -236,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
