@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
 ## Bucket Sort
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
