@@ -138,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
