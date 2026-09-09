@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
