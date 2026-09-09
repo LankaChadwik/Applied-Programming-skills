@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
