@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1472-design-browser-history](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
@@ -152,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -319,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
