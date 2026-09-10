@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0905-sort-array-by-parity) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1672-richest-customer-wealth) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
