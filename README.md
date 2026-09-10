@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0841-keys-and-rooms) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0841-keys-and-rooms) |
@@ -342,5 +345,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
