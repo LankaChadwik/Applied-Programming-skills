@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
