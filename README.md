@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0905-sort-array-by-parity) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1396-design-underground-system) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1396-design-underground-system) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0905-sort-array-by-parity) |
 ## Simulation
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -358,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
