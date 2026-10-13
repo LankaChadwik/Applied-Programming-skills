@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0641-design-circular-deque) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1314-matrix-block-sum) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0721-accounts-merge) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0053-maximum-subarray) |
+| [0542-01-matrix](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
 |  |
