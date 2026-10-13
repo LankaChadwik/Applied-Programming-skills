@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1603-design-parking-system) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
@@ -366,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0207-course-schedule) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
