@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1396-design-underground-system) |
+| [1763-longest-nice-substring](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1763-longest-nice-substring) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
