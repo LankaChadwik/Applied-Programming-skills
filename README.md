@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/LankaChadwik/Applied-Programming-skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
